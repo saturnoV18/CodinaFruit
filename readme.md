@@ -13,8 +13,8 @@ Som l'equip 68 del institut Thos i Codina.
 - Miquel Crespo Batllori
 
 ## Vídeos
-Vídeo pich: https://youtu.be/NHtCGo6k8qY
-Vídeo extra: 
+- Vídeo pich: https://youtu.be/NHtCGo6k8qY
+- Vídeo extra: https://youtu.be/oBj4ziQkIwI
 
 ## Delafruit repte 6 (Seguiment del Miro)
 Doc: https://docs.google.com/document/d/1uF0rKjNNQxyBhxduS9phGFewLkNIdLA_d_jgqO3ZLmQ/edit?usp=sharing
